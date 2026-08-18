@@ -151,3 +151,9 @@ function ComparisonScreen() {
 
 `src/utils/types.js` 에 `Product`, `AnalysisResult`, `AnalyzeRequest` 등
 모든 데이터 형태가 JSDoc으로 정리해놓음
+
+
+
+
+
+전체적으로 모두 수정될 수 있음. 참고만.
